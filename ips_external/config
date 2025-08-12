@@ -1,0 +1,8 @@
+[module/privacy]
+type = custom/script
+exec = ~/.config/bspwm/themes/Japanese\ Street\ 2/polybar/scripts/privacy_wrapper.sh
+interval = 10
+format-padding = 2
+format = <label>
+label = %output%
+format-font = 2
