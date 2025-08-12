@@ -1,6 +1,6 @@
 # Modulos personales para polybar
  
-![volamp](https://github.com/firstatack/polybar_volamp/blob/main/volam.png?raw=true)
+![polibar](https://github.com/firstatack/polybar_modules/blob/main/polybar_img.png?raw=true)
 
 En este repo encontraremos varios modulos creados por mi para diversas funciones.
 
@@ -14,19 +14,19 @@ En principio son pequeñas utilidades que me sirven para que con un clic o un vi
 
 **volamp** 
 
-![volamp](https://github.com/firstatack/polybar_volamp/blob/main/volam.png?raw=true)
+![volamp](https://github.com/firstatack/polybar_modules/blob/main/polybar_volamp/volam.png?raw=true)
 
 Volamp es un modulo que permite controlar el volumen de los altavoces de tu computadora.
 
 **openrg_swicht**
 
-![volamp](https://github.com/firstatack/polybar_volamp/blob/main/volam.png?raw=true)
+![openrgb](https://github.com/firstatack/polybar_modules/blob/main/polybar_openrgb/openrgb.png?raw=true)
 
 Con este otro modulo podremos cambiar entre los perfiles de color que tengamos en openrgb sin necesidad de abrir la aplicacion y dejar corriendo la gui.
 
 **ip_external**
 
-![volamp](https://github.com/firstatack/polybar_volamp/blob/main/volam.png?raw=true)
+![ipexternal](https://github.com/firstatack/polybar_modules/blob/main/ips_external/Screenshot_2025-08-12-11-29-49_1366.png?raw=true)
 
 Con este otro modulo conseguimos mostrar en la barra el tipo de navegacion que estamos usando ,si usamos VPN , TOR o una conexion normal
 
